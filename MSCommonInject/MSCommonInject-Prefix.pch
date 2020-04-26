@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'MSCommonInject' target in the 'MSCommonInject' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
